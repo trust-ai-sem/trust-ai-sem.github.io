@@ -13,10 +13,11 @@ title: Privacy and Security in ML Seminars
 <!-- - Subscribe to our **[mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)** to receive to seminar, jobs, and event announcements -->
 - Join our **[Slack](https://join.slack.com/t/prisec-ml/shared_invite/zt-3paabw8b7-kL4~ZYcA3OrYF59bkrdnCQ)**
 - Follow us on **[BlueSky](https://bsky.app/profile/prisec-ml.bsky.social)**
-- Subscribe to our **[YouTube channel](https://youtube.com/@prisec-ml)** where we live stream and keep recordings of the talks
+- Subscribe to our **[YouTube channel](https://youtube.com/@prisec-ml)** where we live stream and keep recordings of the seminars
+- Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PRISEC-ML&A=1)** for seminar announcements
 
 
-### Seminars
+### Past Seminars
 
 
 <img src="../images/vitaly.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
