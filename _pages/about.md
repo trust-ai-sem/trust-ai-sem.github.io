@@ -21,7 +21,7 @@ title: Privacy and Security in ML Seminars
 
 
 <img src="../images/vitaly.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
-- January 27, 2021  
+- January 20, 2021  
 **Vitaly Shmatikov (Cornell Tech)**  
 How to Salvage Federated Learning  
 [[Recording](https://www.youtube.com/watch?v=Tx2T3LojHIQ)]
