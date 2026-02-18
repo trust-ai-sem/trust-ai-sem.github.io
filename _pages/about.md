@@ -5,19 +5,20 @@ image: ../images/photo.jpeg
 title: Privacy and Security in ML Seminars
 ---
 
-<br>This was the homepage of the **Privacy & Security in Machine Learning (PriSec-ML) Interest Group**. From January 2021 to July 2023, it brought together researchers and practitioners around the world broadly interested in this topic. It was organized by [Emiliano De Cristofaro](https://emilianodc.com), with some help from [Lorenzo Cavallaro](https://profiles.ucl.ac.uk/84211-lorenzo-cavallaro) and [Yang Zhang](https://yangzhangalmo.github.io/).
+<br>This is the homepage of the **Trustworthy AI Talk Series (trust-ai-sem)**, organized by [Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) and [Emiliano De Cristofaro](https://emilianodc.com).
 
-## New! We are planning a reboot of this seminar series! Stay tuned!
+To some extent, it is a reboot of the PriSec-ML Interest Group series, which, from January 2021 to July 2023 brought together researchers and practitioners around the world broadly interested in this topic (organized by [Emiliano De Cristofaro](https://emilianodc.com), [Lorenzo Cavallaro](https://profiles.ucl.ac.uk/84211-lorenzo-cavallaro), and [Yang Zhang](https://yangzhangalmo.github.io/)).
+
+## Stay tuned!
 
 ### Get Involved
-<!-- - Subscribe to our **[mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)** to receive to seminar, jobs, and event announcements -->
-- Join our **[Slack](https://join.slack.com/t/prisec-ml/shared_invite/zt-3paabw8b7-kL4~ZYcA3OrYF59bkrdnCQ)**
-- Follow us on **[BlueSky](https://bsky.app/profile/prisec-ml.bsky.social)**
-- Subscribe to our **[YouTube channel](https://youtube.com/@prisec-ml)** where we live stream and keep recordings of the seminars
-- Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PRISEC-ML&A=1)** for seminar announcements
+<!-- - Join our **[Slack](https://join.slack.com/t/prisec-ml/shared_invite/zt-3paabw8b7-kL4~ZYcA3OrYF59bkrdnCQ)** -->
+- Follow us on **[BlueSky](https://bsky.app/profile/trust-ai-sem.bsky.social)**
+- Subscribe to our **[YouTube channel](https://youtube.com/@trust-ai-sem)** where we live stream and keep recordings of the seminars
+<!-- - Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PRISEC-ML&A=1)** for seminar announcements
+-->
 
-
-### Past Seminars
+### Past (PriSec-ML) Seminars
 
 
 <img src="../images/vitaly.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
