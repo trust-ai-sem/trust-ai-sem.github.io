@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Privacy and Security in ML"
+title                    : "Trustworthy AI Talk Series"
 title_separator          : "-"
 title_image              : /images/photo.jpeg
-name                     : &name "PriSec-ML"
+name                     : &name "trust-ai-sem"
 description              : &description ""
-url                      : https://prisec-ml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://trust-ai-sem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "prisec-ml/prisec-ml.github.io"
+repository               : "trust-ai-sem/trust-ai-sem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -109,7 +109,7 @@ author:
   xing             :
   youtube  : "PrivacyandMachineLearningInterestGroup"
   wikipedia        :
-  bsky             : "prisec-ml.bsky.social"
+  bsky             : "trust-ai-sem.bsky.social"
 
 
 # Reading Files
