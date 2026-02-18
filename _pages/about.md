@@ -5,9 +5,9 @@ image: ../images/photo.jpeg
 title: Trustworthy AI Talk Series
 ---
 
-<br>This is the homepage of the **Trustworthy AI Talk Series (trust-ai-sem)**, organized by [Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) and [Emiliano De Cristofaro](https://emilianodc.com).
+<br>This is the homepage of the **Trustworthy AI Talk Series**, organized by [Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) and [Emiliano De Cristofaro](https://emilianodc.com).
 
-To some extent, it is a reboot of the PriSec-ML Interest Group series, which, from January 2021 to July 2023 brought together researchers and practitioners around the world broadly interested in this topic (organized by [Emiliano De Cristofaro](https://emilianodc.com), [Lorenzo Cavallaro](https://profiles.ucl.ac.uk/84211-lorenzo-cavallaro), and [Yang Zhang](https://yangzhangalmo.github.io/)).
+To some extent, it is a widening reboot of the PriSec-ML Interest Group series, which, from January 2021 to July 2023 brought together researchers and practitioners around the world broadly interested in this topic (organized by [Emiliano De Cristofaro](https://emilianodc.com), [Lorenzo Cavallaro](https://profiles.ucl.ac.uk/84211-lorenzo-cavallaro), and [Yang Zhang](https://yangzhangalmo.github.io/)).
 
 ## Stay tuned!
 
