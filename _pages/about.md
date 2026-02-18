@@ -2,7 +2,7 @@
 permalink: /
 author_profile: true
 image: ../images/photo.jpeg
-title: Privacy and Security in ML Seminars
+title: Trustworthy AI Talk Series
 ---
 
 <br>This is the homepage of the **Trustworthy AI Talk Series (trust-ai-sem)**, organized by [Eugene Bagdasarian](https://people.cs.umass.edu/~eugene/) and [Emiliano De Cristofaro](https://emilianodc.com).
