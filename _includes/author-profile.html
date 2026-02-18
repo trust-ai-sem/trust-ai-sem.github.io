@@ -89,11 +89,13 @@
         <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fa fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
       {% endif %}
       {% if author.youtube %}
-        {% assign yt = author.youtube %}
-        {% if yt | slice: 0, 1 != '@' %}
-          {% assign yt = '@' | append: yt %}
-        {% endif %}
-        * [YouTube](https://www.youtube.com/{{ yt }})
+        <li>
+          <a href="https://www.youtube.com/@{{ author.youtube | remove: '@' }}"
+             rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-youtube" aria-hidden="true"></i>
+            <span class="label">YouTube</span>
+          </a>
+        </li>
       {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
