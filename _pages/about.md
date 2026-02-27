@@ -9,7 +9,6 @@ title: Trustworthy AI Talk Series
 
 To some extent, it is a widening reboot of the PriSec-ML Interest Group series, which, from January 2021 to July 2023 brought together researchers and practitioners around the world broadly interested in this topic (organized by [Emiliano De Cristofaro](https://emilianodc.com), [Lorenzo Cavallaro](https://profiles.ucl.ac.uk/84211-lorenzo-cavallaro), and [Yang Zhang](https://yangzhangalmo.github.io/)).
 
-**We will soon announce the first speakers of the new series -- stay tuned!**
 
 ## Get Involved
 - Join our **[Slack](https://join.slack.com/t/trust-ai-sem/shared_invite/zt-3paabw8b7-kL4~ZYcA3OrYF59bkrdnCQ)**
