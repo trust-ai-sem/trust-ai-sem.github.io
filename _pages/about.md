@@ -27,7 +27,7 @@ Talk details TBA
 <img src="../images/earlence.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - April 17, 2026 (12pm EST / 9am PST / 5pm GMT)  
 **Earlence Fernandes (UC San Diego)**  
-Talk details TBA  
+The systems security approach to AI agents  
 [[Zoom](https://ucr.zoom.us/j/95270651358?pwd=6lTe3ecN4CbBABZ2b4XqDfBLBB73JO.1)] [[YouTube](https://youtube.com/live/vZ7_LOq7kng)]
 
 <img src="../images/ilia.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
