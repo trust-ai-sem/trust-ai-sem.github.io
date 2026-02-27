@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trustworthy AI Talk Series"
+title                    : "Trustworthy AI Seminar Series"
 title_separator          : "-"
 title_image              : /images/photo.jpeg
 name                     : &name "trust-ai-sem"
