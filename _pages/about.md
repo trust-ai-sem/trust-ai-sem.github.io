@@ -18,6 +18,10 @@ To some extent, it is a widening reboot of the PriSec-ML Interest Group series, 
 <!-- - Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PRISEC-ML&A=1)** for seminar announcements
 -->
 
+## Upcoming Seminars
+
+
+
 ## Past (PriSec-ML) Seminars
 
 
