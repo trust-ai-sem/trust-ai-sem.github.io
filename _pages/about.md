@@ -34,7 +34,7 @@ The systems security approach to AI agents
 - April 17, 2026 (12pm EST / 9am PST / 5pm GMT)  
 **Ilia Shumailov (AI Sequrity Company)**  
 Talk details TBA  
-[[Zoom]()] [[YouTube]()]
+[[Zoom](https://ucr.zoom.us/j/94455859347?pwd=cHz8EAlVcikjS62ia9DvXyej1YF74X.1)] [[YouTube](https://youtube.com/live/A5rr421Hk_k)]
 
 
 ## Past (PriSec-ML) Seminars
