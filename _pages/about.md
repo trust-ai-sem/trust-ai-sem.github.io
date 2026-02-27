@@ -22,14 +22,14 @@ To some extent, it is a widening reboot of the PriSec-ML Interest Group series, 
 <img src="../images/peter.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - March 6, 2026 (12pm EST / 9am PST / 5pm GMT)  
 **Peter Kairouz (Google)**  
-TBA
+TBA  
 [[Zoom]()] [[YouTube]()]
 
 
 <img src="../images/earlence.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - April 17, 2026 (12pm EST / 9am PST / 5pm GMT)  
 **Earlence Fernandes (UC San Diego)**  
-TBA
+TBA  
 [[Zoom]()] [[YouTube]()]
 
 
