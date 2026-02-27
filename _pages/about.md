@@ -14,8 +14,7 @@ To some extent, it is a widening reboot of the PriSec-ML Interest Group series, 
 - Join our **[Slack](https://join.slack.com/t/trust-ai-sem/shared_invite/zt-3paabw8b7-kL4~ZYcA3OrYF59bkrdnCQ)**
 - Follow us on **[BlueSky](https://bsky.app/profile/trust-ai-sem.github.io)**
 - Subscribe to our **[YouTube channel](https://youtube.com/@trust-ai-sem)** where we live stream and keep recordings of the seminars
-<!-- - Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PRISEC-ML&A=1)** for seminar announcements
--->
+- Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=trust-ai-sem&A=1)** for seminar announcements
 
 ## Upcoming Seminars
 <img src="../images/peter.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
