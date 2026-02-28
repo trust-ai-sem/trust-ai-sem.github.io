@@ -29,7 +29,7 @@ We will explore how this metadata-conditioned paradigm establishes a new state-o
 - April 3, 2026 (9am PT / 12pm ET / 5pm UK)  
 **Sahar Abdelnabi (ELLIS Institute Tübingen & MPI-IS)**  
 Talk details TBA  
-[[Zoom]()] [[YouTube]()]
+[[Zoom](https://ucr.zoom.us/j/92983004727?pwd=WJzyIGO3lCUGGi4PjZfHahzGldWpJ1.1)] [[YouTube](https://youtube.com/live/YhPogfbQ4Jw)]
 
 
 <img src="../images/earlence.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
