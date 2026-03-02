@@ -44,6 +44,13 @@ The systems security approach to AI agents
 Talk details TBA  
 [[Zoom](https://ucr.zoom.us/j/94455859347?pwd=cHz8EAlVcikjS62ia9DvXyej1YF74X.1)] [[YouTube](https://youtube.com/live/A5rr421Hk_k)]
 
+<img src="../images/alina.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+- May 15, 2026 (9am PT / 12pm ET / 5pm UK)  
+**Alina Oprea (Northeastern University)**  
+Towards Trustworthy AI Agentic Systems  
+[[Zoom]()] [[YouTube]()]
+
+
 
 ## Past (PriSec-ML) Seminars
 
