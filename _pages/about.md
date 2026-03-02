@@ -48,7 +48,7 @@ Talk details TBA
 - May 15, 2026 (9am PT / 12pm ET / 5pm UK)  
 **Alina Oprea (Northeastern University)**  
 Towards Trustworthy AI Agentic Systems  
-[[Zoom]()] [[YouTube]()]
+[[Zoom](https://ucr.zoom.us/j/96969688824?pwd=6jT9q2GqvlPR5S7Yw5foww2SrRmKBd.1)] [[YouTube](https://youtube.com/live/-oezezCjVpg)]
 
 
 
