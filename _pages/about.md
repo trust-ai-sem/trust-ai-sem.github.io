@@ -14,7 +14,7 @@ To some extent, it is a widening reboot of the PriSec-ML Interest Group series, 
 - Join our **[Slack](https://join.slack.com/t/trust-ai-sem/shared_invite/zt-3paabw8b7-kL4~ZYcA3OrYF59bkrdnCQ)**
 - Follow us on **[BlueSky](https://bsky.app/profile/trust-ai-sem.github.io)**
 - Subscribe to our **[YouTube channel](https://youtube.com/@trust-ai-sem)** where we live stream and keep recordings of the seminars
-- Subscribe to our **[Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZWY5ODFiZDU2ZTE1YTUwNzA1OTM0NTE5ZjE4ZmUwYWFhNWM5NmZmODhkMTM4MDJiYzg4MmZiYTE1YTk4M2VlNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**
+- Subscribe to our **[Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZWY5ODFiZDU2ZTE1YTUwNzA1OTM0NTE5ZjE4ZmUwYWFhNWM5NmZmODhkMTM4MDJiYzg4MmZiYTE1YTk4M2VlNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)** ([import ICS](https://calendar.google.com/calendar/ical/ef981bd56e15a50705934519f18fe0aaa5c96ff88d13802bc882fba15a983ee6%40group.calendar.google.com/public/basic.ics))
 - Suscribe to our **[Mailing List](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=trust-ai-sem&A=1)** for seminar announcements
 
 ## Upcoming Seminars
