@@ -19,11 +19,6 @@ To some extent, it is a widening reboot of the PriSec-ML Interest Group series, 
 
 ## Upcoming Seminars
 
-<img src="../images/earlence.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
-- April 17, 2026 (9am PT / 12pm ET / 5pm UK)  
-**Earlence Fernandes (UC San Diego)**  
-The systems security approach to AI agents<details><br>**Abstract:** AI agents are limited due to their fundamental vulnerability to prompt injection attacks that trick the underlying model into treating untrusted data as instructions. Model hardening is the industry standard in reducing the effect of prompt injections by teaching models to distinguish instructions and data. Unfortunately, this only provides a probabilistic guarantee and is vulnerable to being tricked by strong attackers. This talk examines what role can computer systems security play in defending AI agents against prompt injection attacks. What systems principles are applicable? What are the challenges that arise when you try to apply some of these principles to agents? Using web agents as a case study, the talk explores these challenges and shows how to sandbox web agents by building infrastructure at the level of the browser. More information can be found at: [https://cellmate-sandbox.github.io/](https://cellmate-sandbox.github.io/)<br><br>**Bio:** Earlence Fernandes is an Assistant Professor of Computer Science at UC San Diego. He mostly thinks about building secure systems but hacks interesting systems for fun and research. He has hacked door locks, Stop signs and bicycles. Earlence's work has been recognized with the NSF CAREER award, and research awards from Meta, Amazon and Google.</details>[[Zoom](https://ucr.zoom.us/j/95270651358?pwd=6lTe3ecN4CbBABZ2b4XqDfBLBB73JO.1)] [[YouTube](https://youtube.com/live/vZ7_LOq7kng)]
-
 <img src="../images/ilia.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - May 1, 2026 (9am PT / 12pm ET / 5pm UK)  
 **Ilia Shumailov (AI Sequrity Company)**  
@@ -39,6 +34,13 @@ Towards Trustworthy AI Agentic Systems
 
 
 ## Past Seminars
+<img src="../images/earlence.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
+- April 17, 2026 (9am PT / 12pm ET / 5pm UK)  
+**Earlence Fernandes (UC San Diego)**  
+The systems security approach to AI agents<details><br>**Abstract:** AI agents are limited due to their fundamental vulnerability to prompt injection attacks that trick the underlying model into treating untrusted data as instructions. Model hardening is the industry standard in reducing the effect of prompt injections by teaching models to distinguish instructions and data. Unfortunately, this only provides a probabilistic guarantee and is vulnerable to being tricked by strong attackers. This talk examines what role can computer systems security play in defending AI agents against prompt injection attacks. What systems principles are applicable? What are the challenges that arise when you try to apply some of these principles to agents? Using web agents as a case study, the talk explores these challenges and shows how to sandbox web agents by building infrastructure at the level of the browser. More information can be found at: [https://cellmate-sandbox.github.io/](https://cellmate-sandbox.github.io/)<br><br>**Bio:** Earlence Fernandes is an Assistant Professor of Computer Science at UC San Diego. He mostly thinks about building secure systems but hacks interesting systems for fun and research. He has hacked door locks, Stop signs and bicycles. Earlence's work has been recognized with the NSF CAREER award, and research awards from Meta, Amazon and Google.</details>
+[[Recording](https://youtube.com/live/vZ7_LOq7kng)]
+
+
 <img src="../images/sahar.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - April 3, 2026 (9am PT / 12pm ET / 5pm UK)  
 **Sahar Abdelnabi (ELLIS Institute Tübingen & MPI-IS)**  
