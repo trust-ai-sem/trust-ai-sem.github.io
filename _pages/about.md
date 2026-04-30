@@ -22,8 +22,8 @@ To some extent, it is a widening reboot of the PriSec-ML Interest Group series, 
 <img src="../images/ilia.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - May 1, 2026 (9am PT / 12pm ET / 5pm UK)  
 **Ilia Shumailov (AI Sequrity Company)**  
-Talk details TBA  
-[[Zoom](https://ucr.zoom.us/j/94455859347?pwd=cHz8EAlVcikjS62ia9DvXyej1YF74X.1)] [[YouTube](https://youtube.com/live/A5rr421Hk_k)]
+What is going on with prompt injections?  
+[[Zoom](https://ucr.zoom.us/j/94455859347?pwd=cHz8EAlVcikjS62ia9DvXyej1YF74X.1)] [[YouTube](https://youtube.com/live/A5rr421Hk_k)]<details><br>**Bio:** Ilia Shumailov holds a PhD in Computer Science from the University of Cambridge. Until recently, Ilia was a Senior Research Scientist at Google DeepMind focusing on the intersection of machine learning, privacy, and computer security. He is best known for his pioneering research on Model Collapse—demonstrated in his paper The Curse of Recursion, which showed that training models on AI-generated data causes them to irreversibly degenerate—and for the discovery of Sponge Examples, a class of attacks designed to maximize energy consumption and latency in neural networks. His recent work also includes the development of CaMeL, a system introduced in Defeating Prompt Injections by Design that creates a protective layer for AI agents by strictly segregating data and control flows. At present, Ilia runs a company building tools to secure AI agents of the future.</details>
 
 <img src="../images/alina.jpg" style="float:right;width:100px;height:100px;margin-top:0px">
 - May 15, 2026 (9am PT / 12pm ET / 5pm UK)  
